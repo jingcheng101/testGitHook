@@ -9,19 +9,19 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        b();
-        a();
+//        b();
+//        a();
     }
 
-private void a(){
-
-}
-private int b()     {
-    int b=1;
-    int d;
-    int e=0;
-    String g;
-    return b;
-}
+//private void a(){
+//
+//}
+//private int b()     {
+//    int b=1;
+//    int d;
+//    int e=0;
+//    String g;
+//    return b;
+//}
 
 }
