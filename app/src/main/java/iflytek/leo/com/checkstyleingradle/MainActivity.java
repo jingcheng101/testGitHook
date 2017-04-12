@@ -19,7 +19,8 @@ private void a(){
 private int b()     {
     int b=1;
     int d;
-    int g=0;
+    int e=0;
+    String g;
     return b;
 }
 
